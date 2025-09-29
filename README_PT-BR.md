@@ -1,3 +1,5 @@
+<img src="app_example_if_offline.jpg" alt="Combo Screenshot" width="1024">
+
 # 🌐 WebView Completo 4 em 1  
 
 Um **aplicativo Android WebView** simples mas poderoso, com suporte offline, sistema de tentativas automáticas, abertura de links externos (WhatsApp, Facebook, YouTube, Maps, etc.) e confirmação ao sair do app com duplo toque no botão de voltar.  

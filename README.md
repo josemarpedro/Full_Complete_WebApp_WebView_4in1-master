@@ -1,3 +1,5 @@
+<img src="app_example_if_offline.jpg" alt="Combo Screenshot" width="1024">
+
 # 🌐 Full Complete WebView 4in1  
 
 🌍 Languages: [English](README.md) | [Português Brasileiro](README_PT-BR.md)
