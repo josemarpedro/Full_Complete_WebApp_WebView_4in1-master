@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BENJA" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <!-- Define a cor da barra de status -->
+        <item name="android:statusBarColor">#000000</item> <!-- Cor preta -->
+    </style>
+</resources>

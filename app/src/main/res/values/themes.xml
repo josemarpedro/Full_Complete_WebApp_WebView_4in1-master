@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BENJA" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Define a cor da barra de status -->
+        <item name="android:statusBarColor">#000000</item> <!-- Cor preta -->
+
+        <!-- Define a cor dos ícones da barra de status (false = ícones claros/brancos) -->
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- Tema principal da aplicação -->
+    <style name="Theme.BENJA" parent="Base.Theme.BENJA" />
+</resources>
