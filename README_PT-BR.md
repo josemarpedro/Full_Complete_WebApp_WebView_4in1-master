@@ -1,4 +1,4 @@
-<img src="app_example_if_offline.jpg" alt="Combo Screenshot" width="1024">
+<img src="app_example_if_offline.jpg" alt="Combo Screenshot" width="400">
 
 # 🌐 WebView Completo 4 em 1  
 
