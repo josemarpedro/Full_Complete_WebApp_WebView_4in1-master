@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=josemarpedro)
+
 <img src="app_example_if_offline.jpg" alt="Combo Screenshot" width="400">
 
 # 🌐 Full Complete WebView 4in1  
