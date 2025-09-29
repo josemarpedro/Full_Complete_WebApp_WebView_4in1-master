@@ -1,6 +1,6 @@
 # 🌐 Full Complete WebView 4in1  
 
-🌍 Languages: [English](README.md) | [Português Brasileiro](README_pt-BR.md)
+🌍 Languages: [English](README.md) | [Português Brasileiro](README_PT-BR.md)
 
 A simple but powerful **Android WebView App** with offline handling, retry system, external link handling (WhatsApp, Facebook, YouTube, Maps, etc.), and a double-back press exit confirmation.  
 
